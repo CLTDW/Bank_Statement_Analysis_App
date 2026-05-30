@@ -519,7 +519,7 @@ python main.py input_file.xlsx [-o output_file] [-t template_file] [-l log_level
 
 ## 注意事项
 
-1. **文件格式**：支持 `.xlsx`, `.xls`, `.csv`, `.txt`, `.pdf` 格式
+1. **文件格式**：支持 `.xlsx` `.xls` `.csv` `.txt` `.pdf` 格式
 2. **文件大小**：建议单个Excel文件不超过50MB，大数据量请分批处理
 3. **编码问题**：程序会自动检测文件编码，但建议使用UTF-8编码
 4. **模板文件**：确保模板文件存在且格式正确
